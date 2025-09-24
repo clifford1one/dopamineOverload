@@ -37,3 +37,9 @@ la función biológica de la dopamina, es reforzar comportamientos beneficiosos 
 
 short form content
 <https://en.wikipedia.org/wiki/Short-form_content>
+
+
+aza raskin - infinite scroll{
+<https://en.wikipedia.org/wiki/Infinite_scrolling>
+el infinite scroll fue implementado por primera vez en "humanized reader app" en 2006
+}
