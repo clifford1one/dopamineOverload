@@ -11,8 +11,29 @@ Los animales también juegan, pero los juegos de los humanos(como el ajedrez, f�
 
 En la vida no sabemos si estamos tomando la desición correcta, pero en el pong, se exáctamente que tengo que hacer si quiero triunfar.
 
-dopamine fix
+dopamine fix{
 <https://www.youtube.com/watch?v=-2jZ-iOR8p4&list=WL&index=4>
-
+- el cerebro solo puede release cierta cantidad limitada de dopamina al día, por lo que picos muy altos de dopamina puede generar el sentirse mal en momentos posteriores del día.
+}
 pirámide de maslov
 <https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs>
+
+brain reward system {
+<https://www.simplypsychology.org/brain-reward-system.html>
+
+- Dopamine drives learning, habit formation, and goal-directed actions by reinforcing behaviors that lead to pleasure.
+
+- Addiction occurs when this system is overstimulated, making the brain reliant on certain substances or behaviors for pleasure.
+
+la función biológica de la dopamina, es reforzar comportamientos beneficiosos para el humano, como comer, socializar, o lograr metas.
+
+- sustancias o experiencias fabricadas, pueden generar niveles anormalmente altos de dopamina. Esto puede llevar a que luego los niveles de dopamina generados naturalmente por el cerebro se sientan leves por comparación. Este suceso puede llevar a una disminución de [serotonina](https://es.wikipedia.org/wiki/Serotonina)
+
+- These findings highlight that the brain’s reward circuits are deeply involved in anticipation and social validation—not just tangible rewards.
+}
+
+- stimming 
+<https://en.wikipedia.org/wiki/Stimming>
+
+short form content
+<https://en.wikipedia.org/wiki/Short-form_content>
