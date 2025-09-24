@@ -14,6 +14,19 @@ En la vida no sabemos si estamos tomando la desición correcta, pero en el pong,
 dopamine fix{
 <https://www.youtube.com/watch?v=-2jZ-iOR8p4&list=WL&index=4>
 - el cerebro solo puede release cierta cantidad limitada de dopamina al día, por lo que picos muy altos de dopamina puede generar el sentirse mal en momentos posteriores del día.
+
+11 principles
+1. a depleted brain  will always default to ease
+2. reappraise the disconfort
+3. win the evening
+4. structure your day right
+5. identity without evidence is just fragile consistency
+6. never miss twice
+7. when intimidated, break it down to 5%
+8. mesmerise yourself into ritual(keystone habits)
+9. never set a pace you can't keep
+10. the effort is the reward
+11. self-negotiation prevents self-termination
 }
 pirámide de maslov
 <https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs>
@@ -42,4 +55,7 @@ short form content
 aza raskin - infinite scroll{
 <https://en.wikipedia.org/wiki/Infinite_scrolling>
 el infinite scroll fue implementado por primera vez en "humanized reader app" en 2006
+}
+"admit it, cheap dopamine is ruining your life"{
+    <https://www.youtube.com/watch?v=LZvfRcQO9nE&t=346s>
 }
