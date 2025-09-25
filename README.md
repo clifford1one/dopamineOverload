@@ -1,6 +1,7 @@
 # dopamineOverload
 research about cellphone addiction and procrastination
 
+## referentes e info extraída:
 Vsauce y NYT rats brain <https://www.youtube.com/watch?v=e5jDspIC4hY>
 <https://www.nytimes.com/2008/02/17/magazine/17play.html?pagewanted=all>
 el deporte(game) es una forma que tienen los humanos de "preparar la mente". Un estudio demostró que ratas que se criaron con ratas adultas(que no jugaban con las ratas wawa), desarrollaban menos su cerebro vs ratas que se criaban con pares con quien jugar.
@@ -57,5 +58,27 @@ aza raskin - infinite scroll{
 el infinite scroll fue implementado por primera vez en "humanized reader app" en 2006
 }
 "admit it, cheap dopamine is ruining your life"{
-    <https://www.youtube.com/watch?v=LZvfRcQO9nE&t=346s>
+<https://www.youtube.com/watch?v=LZvfRcQO9nE&t=346s>
+
+dopamine: es un neurotransmisor que se genera en el cerebro, y que permite la comunicación entre neuronas. Existen varios tipos de neurotransmisores. Su liberación(release) determina cómo te sientes, actúas y piensas.
+
+La dopamina se puede entender como la molécula del "más". Esto porque es lo que te motiva a ir tras las cosas u objetivos.
+
+Si bien, la dopamina es necesaria para sentirse feliz, no es la molécuula de la felicidad en sí. [fuente](https://today.uconn.edu/2012/11/uconn-researcher-dopamine-not-about-pleasure-anymore/)
+
+### esta parte es importante
+
+balance: una subida de dopamina conlleva una bajada de la misma magnitud. esto se debe a que el cuerpo busca estar contantemente en estado de [homeostasis](https://es.wikipedia.org/wiki/Homeostasis)
+
+distintos estímulos provocan distintas reacciones. Cosas como la comida chatarra, videojuegos, celular, porno, etc. causan caídas abruptas en el balance de dopamina.
+
+  al ver tiktok, tus niveles de dopamina suben mucho. al dejar de ver tiktok, bajan mucho. esto provoca que te sientas, y desees volver al estado en el que estabas antes de dejar de ver tiktok. 
+
+  así se generan adicciones. si te consideras adicto a tiktok, noeres adicto a tiktok, eres adicto a evitar y escapar del estado en el que te encuentras cuando no está viendo tiktok.
+
+TO DO: parte final de este item
 }
+
+- framing effect and types{
+    <https://www.youtube.com/watch?v=x1uCimKtPyY>
+} 
