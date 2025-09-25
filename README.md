@@ -72,13 +72,50 @@ balance: una subida de dopamina conlleva una bajada de la misma magnitud. esto s
 
 distintos estímulos provocan distintas reacciones. Cosas como la comida chatarra, videojuegos, celular, porno, etc. causan caídas abruptas en el balance de dopamina.
 
-  al ver tiktok, tus niveles de dopamina suben mucho. al dejar de ver tiktok, bajan mucho. esto provoca que te sientas, y desees volver al estado en el que estabas antes de dejar de ver tiktok. 
+ al usar estos estímulos fáciles(tiktok, papafritas,etc) se generan picos altos de dopamina, al dejar estos estímulos, se generan picos bajos "fast dopamine". sin embargo para retornar a niveles normales, los niveles van subiendo lentamente "slow dopamine" 
 
-  así se generan adicciones. si te consideras adicto a tiktok, noeres adicto a tiktok, eres adicto a evitar y escapar del estado en el que te encuentras cuando no está viendo tiktok.
+al ver tiktok, tus niveles de dopamina suben mucho. al dejar de ver tiktok, bajan mucho. esto provoca que te sientas, y desees volver al estado en el que estabas antes de dejar de ver tiktok. 
 
-TO DO: parte final de este item
+así se generan adicciones. si te consideras adicto a tiktok, noeres adicto a tiktok, eres adicto a evitar y escapar del estado en el que te encuentras cuando no está viendo tiktok.
+
+ cuando te sientes "inmutable" y sientes que estímulos naturales (como socializar, ver la naturaleza, museos, etc) no te hacen efecto, es porque no tieen los receptores de dopamina disponibles para eso. Para tenerlos disponibles, debes intentar tener la la balanza inclinada hacia el otro lado. Para que tu cuerpo busque la homeostasis a través de liberar dopamina ante estímulos "naturales"(no tiktok)
+
+**easy choices hard life**
+**hard choices easy life**
+
+
+¿cómo sentirse motivado para hacer cosas difíciles? has que esa actividad sea más disfrutable que todo lo demás.
 }
 
 - framing effect and types{
     <https://www.youtube.com/watch?v=x1uCimKtPyY>
 } 
+
+variable ratio schedule{
+  esto me lo enseñó un señor que mi mamá contrató para que me enseñara a adiestrar al freddy.
+
+  B.F. Skinner fue un sicólogo e inventor gringo. Uno de sus experimentos más fasmosos es la skinner box, donde sometía palomas a distintos tipos de recompensas:
+  - intervalos fijos
+  - intervalos variables
+  - ratios fijos
+  - ratios variables
+
+  tanto para los sujetos de estudio como para los humanos, un ratio variables es mucho más adictivo que un rastio fijo. Este es el fenómeno que hace adictivos las slot machines, loot boxes, tiktok, etc.
+}
+forbes: tiktok is like crack{
+<https://www.forbes.com/sites/johnkoetsier/2020/01/18/digital-crack-cocaine-the-science-behind-tiktoks-success/>
+
+}
+
+why our screen makes us less happy{
+  <https://www.youtube.com/watch?v=0K5OO2ybueM>
+
+  de una de las cosas que habla Adam Alter, quie me parecieron más interesdnates. es la siguiente:
+
+  con actividades las cuales,  separa en 2 caategorías. las cuales al interrumpir a una persona haciéndola, te dice que le gusta esa actividad, o que se siente bien haciéndola; y aquellas que al interrumpir a una persona haciéndola, te responde que no le gusta o que no se siente bien hacinedo esa actividad.
+
+  en  promedio las personas pasan 9 minutos al día en cada una de esas actividades del primer grupo. Y 27 minutos al día en cadauna de esas actividades del 2do grupo.
+
+  es decir, pasamos 3 veces más haciendo actividades que en esencia no nos gustan y no nos hacen sentir bien.
+}
+
