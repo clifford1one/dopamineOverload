@@ -1,6 +1,22 @@
 # dopamineOverload
 research about cellphone addiction and procrastination
 
+## ¿de qué quiero hablar?
+
+de cómo el disñeo UI permite y fabrica escenarios adictivos. Muchas veces con el propósito de causar adicciones en sus usuarios.
+
+1. fundamentos sicológicos
+2. técnicas de diseño UI/UX
+3. ejemplos reales
+4. impacto social y humano
+5. ética y responsabilidad desde el diseño
+6. info extraídas de autores
+7. preguntas brígidas
+- ¿Dónde se traza la línea entre lo atractivo y llamativo; y lo adictivo?
+- ¿Hasta qué punto depende de la "fuerza de voluntad" del usuario?
+- responsabilidad ética: empresas y diseñadores
+- ¿Se puede diseñar interfaces que enganchen sin causar dependencia?
+
 ## referentes e info extraída:
 Vsauce y NYT rats brain <https://www.youtube.com/watch?v=e5jDspIC4hY>
 <https://www.nytimes.com/2008/02/17/magazine/17play.html?pagewanted=all>
@@ -117,5 +133,28 @@ why our screen makes us less happy{
   en  promedio las personas pasan 9 minutos al día en cada una de esas actividades del primer grupo. Y 27 minutos al día en cadauna de esas actividades del 2do grupo.
 
   es decir, pasamos 3 veces más haciendo actividades que en esencia no nos gustan y no nos hacen sentir bien.
+}
+
+what makes us keep swiping?{
+<https://www.uts.edu.au/news/2024/02/what-makes-us-keep-swiping>
+
+- excitment and unpredictability, intermitent reinforcement
+- " Perhaps the apps give you a brief rush, but in the long run don’t align with how you want to be spending your time, or don’t make you feel particularly good about yourself."
+} 
+
+
+psychology of smartphone addiction{
+  <https://online.utpb.edu/about-us/articles/psychology/the-psychology-of-smartphone-addiction>
+
+  fuentes(links):
+ - <https://online.utpb.edu/programs/bachelor-of-arts/psychology>
+ - <https://www.psychologytoday.com/us/blog/psychiatrys-think-tank/202302/youre-addicted-to-your-phone>
+ - <https://www.psychologytoday.com/us/blog/your-neurochemical-self/201709/why-is-my-phone-so-addictive>
+ - <https://www.theguardian.com/global/2021/aug/22/how-digital-media-turned-us-all-into-dopamine-addicts-and-what-we-can-do-to-break-the-cycle>
+ - <https://www.healthline.com/health/mental-health/cell-phone-addiction#when-to-get-help>
+}
+
+why scroll instead of showing everything at once{
+  <https://medium.com/@Alekseidesign/the-psychology-of-scrolling-ux-design-insights-for-mobile-apps-ae6eb5ea99bf>
 }
 
