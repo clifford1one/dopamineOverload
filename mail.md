@@ -20,6 +20,22 @@ Incluye en el cuerpo del mensaje:
 - Modalidad: presencial o remota
 - Links de referencia(si corresponde).
 
+## título y subtítulo
+
+el control de la dopamina en la experiencia de usuario: cómo se diseña la adicción.
+
+## eje temático
+
+Política, ética y aceleracionismo
+
+## resumen de la propuesta
+
+### borrador
+
+En la actualidad, y con el paso del tiempo, el valor que le damos a distintos recursos ha mutado. Mientras que para el trabajador común el recurso más valioso es el dinero, para las grandes compañías, el recurso más valioso es nuestra atención. Las plataformas digitales se han consolidado como actores de la economía de la atención e información. Lejos de limitarse a ofrecer la mejor experiencia de usuario posible, se centran en emplear estrategias de diseño orientadas a maximizar la atención del usuario. Esto se logra mediante la explotación de mecanismos neuronales y psicológicos propios del cerebro, tales como la motivación y la anticipación de recompensas. Resultando en un diseño que promueve conductas adictivas e inconcientes.
+
+El objetivo de esta investigación y charla es analizar cómo operan estas estrategias de diseño, de qué manera influyen en la formación de hábitos adictivos y cuáles son sus efectos en la vida cotidiana. Así como reflexionar del rol ético del diseñador UX/UI: ¿hasta qué punto es responsable de estos mecanismos y qué alternativas pueden desarrollarse para promover un diseño que priorice el bienestar del usuario por sobre la maximización del uso?
+
 ## biografía
 
 ### borrador
@@ -37,3 +53,18 @@ Soy diseñador UX y desarrollador de productos con más de dos años construyend
 ### biografía v2
 
 Diseñador UX y estudiante de 4º año de Diseño Industrial. Interesado en investigación y prototipado rápido, aplico un enfoque de diseño centrado en el usuario en cada etapa del proceso. Desde niño cuestiono objetos e interfaces, lo que me llevó a explorar cómo el tiempo, el espacio y la distribución afectan la experiencia. Hoy esa curiosidad se traduce en proyectos donde combino análisis crítico y creatividad para diseñar soluciones que ponen a las personas en el centro.
+
+## formato
+
+charla
+
+## duración estimada
+
+15 min
+
+## modalidad
+
+presencial
+
+## links de referencia
+
