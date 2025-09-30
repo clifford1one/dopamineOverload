@@ -158,3 +158,6 @@ why scroll instead of showing everything at once{
   <https://medium.com/@Alekseidesign/the-psychology-of-scrolling-ux-design-insights-for-mobile-apps-ae6eb5ea99bf>
 }
 
+dark patterns{
+  <https://en.wikipedia.org/wiki/Dark_pattern>
+}
