@@ -36,6 +36,13 @@ En la actualidad, y con el paso del tiempo, el valor que le damos a distintos re
 
 El objetivo de esta investigación y charla es analizar cómo operan estas estrategias de diseño, de qué manera influyen en la formación de hábitos adictivos y cuáles son sus efectos en la vida cotidiana. Así como reflexionar del rol ético del diseñador UX/UI: ¿hasta qué punto es responsable de estos mecanismos y qué alternativas pueden desarrollarse para promover un diseño que priorice el bienestar del usuario por sobre la maximización del uso?
 
+### resumen v2
+
+En la actualidad, y con el paso del tiempo, el valor que le damos a distintos recursos ha mutado. Mientras que para el trabajador común el recurso más valioso es el dinero, para las grandes compañías, el recurso más valioso es nuestra atención. Las plataformas digitales se han consolidado como actores de la economía de la atención e información. Lejos de limitarse a ofrecer la mejor experiencia de usuario posible, se centran en emplear estrategias de diseño orientadas a maximizar la atención del usuario. Esto se logra mediante la explotación de mecanismos neuronales y psicológicos propios del cerebro, tales como la motivación y la anticipación de recompensas. Resultando en un diseño que promueve conductas adictivas e inconscientes.
+
+El objetivo de esta investigación y charla es analizar cómo operan estas estrategias de diseño, de qué manera influyen en la formación de hábitos adictivos y cuáles son sus efectos en la vida cotidiana. Así como reflexionar del rol ético del diseñador UX/UI: ¿hasta qué punto es responsable de estos mecanismos y qué alternativas pueden desarrollarse para promover un diseño que priorice el bienestar del usuario por sobre la maximización del uso?
+
+
 ## biografía
 
 ### borrador
