@@ -22,7 +22,8 @@ Incluye en el cuerpo del mensaje:
 
 ## título y subtítulo
 
-el control de la dopamina en la experiencia de usuario: cómo se diseña la adicción.
+Cómo se diseña la adicción.
+El control sobre la dopamina en la experiencia de usuario.
 
 ## eje temático
 
@@ -30,40 +31,13 @@ Política, ética y aceleracionismo
 
 ## resumen de la propuesta
 
-### borrador
+Año 2025, el dinero está lejos de ser el recurso más valioso para las empresas. En la actualidad el recurso más valioso para las empresas es el tiempo, esto debido a que el tiempo que pasamos e invertimos haciendo o usando productos, se traduce directamente en dinero. Las plataformas digitales se han consolidado como actores de la economía de la atención e información. En el proceso emplean tácticas que maximizan el tiempo que pasamos en estas plataformas, tales como el refuerzo variable, scroll infinito, entre otras tácticas poco éticas. Resultando en un diseño que promueve conductas adictivas e inconscientes. Pero ¿cómo logran las empresas manipular tan directamente la conducta de las personas?
 
-En la actualidad, y con el paso del tiempo, el valor que le damos a distintos recursos ha mutado. Mientras que para el trabajador común el recurso más valioso es el dinero, para las grandes compañías, el recurso más valioso es nuestra atención. Las plataformas digitales se han consolidado como actores de la economía de la atención e información. Lejos de limitarse a ofrecer la mejor experiencia de usuario posible, se centran en emplear estrategias de diseño orientadas a maximizar la atención del usuario. Esto se logra mediante la explotación de mecanismos neuronales y psicológicos propios del cerebro, tales como la motivación y la anticipación de recompensas. Resultando en un diseño que promueve conductas adictivas e inconscientes.
-
-El objetivo de esta investigación y charla es analizar cómo operan estas estrategias de diseño, de qué manera influyen en la formación de hábitos adictivos y cuáles son sus efectos en la vida cotidiana. Así como reflexionar del rol ético del diseñador UX/UI: ¿hasta qué punto es responsable de estos mecanismos y qué alternativas pueden desarrollarse para promover un diseño que priorice el bienestar del usuario por sobre la maximización del uso?
-
-### resumen v2
-
-En la actualidad, y con el paso del tiempo, el valor que le damos a distintos recursos ha mutado. Mientras que para el trabajador común el recurso más valioso es el dinero, para las grandes compañías, el recurso más valioso es nuestra atención. Las plataformas digitales se han consolidado como actores de la economía de la atención e información. Lejos de limitarse a ofrecer la mejor experiencia de usuario posible, se centran en emplear estrategias de diseño orientadas a maximizar la atención del usuario. Esto se logra mediante la explotación de mecanismos neuronales y psicológicos propios del cerebro, tales como la motivación y la anticipación de recompensas. Resultando en un diseño que promueve conductas adictivas e inconscientes.
-
-El objetivo de esta investigación y charla es analizar cómo operan estas estrategias de diseño, de qué manera influyen en la formación de hábitos adictivos y cuáles son sus efectos en la vida cotidiana. Así como reflexionar del rol ético del diseñador UX/UI: ¿hasta qué punto es responsable de estos mecanismos y qué alternativas pueden desarrollarse para promover un diseño que priorice el bienestar del usuario por sobre la maximización del uso?
-
+En esta charla se analizan estas tácticas poco éticas, cómo influyen en la conducta del usuario y cuál es el papel de la dopamina en este proceso. Finalmente se reflexiona sobre el rol de les diseñadores en este contexto. ¿Son les diseñadores parcialmente responsables de estas prácticas? ¿Pueden les diseñadores orientar a les poderoses hacia el uso de tácticas menos predatorias?
 
 ## biografía
 
-### borrador
-
-Mi nombre es XXX XXX "@xxxxx" soy diseñador UX, estudiante de 4to año de Diseño Industrial. Soy una persona muy apasionada por lo que le gusta, y transmito esa pasión y motivación en cada proyecto en el que participo. Esto se ve reflejado en mi capacidad investigativa, y también en habilidades de prototipado rápido.
-
-Desde niño he tenido la tendencia a cuestionar los objetos e interfaces con las que interactúo, especialmente la distribución de los objetos y elementos, el tiempo y el espacio. A día de hoy eso se ha traducido en un enfoque UCD(user centered design), en el cual el usuario es el foco principal en cada etapa del proceso.
-
-Actualmente mi enfoque principal es hacia el diseño UX.
-
-ambiciones que luego fueron tranformándose en mi enfoque hacia una experiencia del usuario fluida e ininterrumpida.
-
-Soy diseñador UX y desarrollador de productos con más de dos años construyendo experiencias interactivas que invitan a los usuarios a reflexionar sobre sus decisiones. Mis mayores fortalezas son mis habilidades comunicativas y mi enfoque de prototipado rápido, lo que me permite materializar ideas de manera eficiente. Tengo aptitudes para diseñar wireframes y definir flujos de usuario.
-
-### biografía v2
-
-Diseñador UX y estudiante de 4º año de Diseño Industrial. Interesado en investigación y prototipado rápido, aplico un enfoque de diseño centrado en el usuario en cada etapa del proceso. Desde niño cuestiono objetos e interfaces, lo que me llevó a explorar cómo el tiempo, el espacio y la distribución afectan la experiencia. Hoy esa curiosidad se traduce en proyectos donde combino análisis crítico y creatividad para diseñar soluciones que ponen a las personas en el centro.
-
-### biografia v3
-
-Mi nombre es Santiago Gaete “@clifford1one”. Diseñador UX y estudiante de 4º año de Diseño Industrial. Soy apasionado por aprender y compartir con otres. Llevo construyendo experiencias interactivas que invitan a la reflexión. Me interesa el prototipado rápido e iteración constante, entendiendo el diseño como un proceso abierto, me gusta intentar todas las opciones posibles antes de tomar una decisión. Mis intereses abarcan UI/UX, electrónica y mecánica, siempre desde una mirada ética que cuestiona cómo la tecnología impacta en las personas y en su entorno social.
+Santiago Gaete “@clifford1one”. Diseñador UX y estudiante de 4º año de Diseño Industrial en UDP. Soy apasionado por aprender y compartir con otres. Llevo construyendo experiencias interactivas que invitan a la reflexión. Me interesa el prototipado rápido e iteración constante, entendiendo el diseño como un proceso abierto, me gusta intentar todas las opciones posibles antes de tomar una decisión. Mis intereses abarcan electrónica y mecánica, desde una mirada ética que cuestiona cómo los nuevos medios impactan en la sociedad.
 
 ## formato
 
@@ -78,3 +52,5 @@ charla
 presencial
 
 ## links de referencia
+
+www.clifford1one.github.io

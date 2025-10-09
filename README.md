@@ -1,4 +1,5 @@
 # dopamineOverload
+
 research about cellphone addiction and procrastination
 
 ## ¿de qué quiero hablar?
@@ -12,12 +13,14 @@ de cómo el disñeo UI permite y fabrica escenarios adictivos. Muchas veces con 
 5. ética y responsabilidad desde el diseño
 6. info extraídas de autores
 7. preguntas brígidas
+
 - ¿Dónde se traza la línea entre lo atractivo y llamativo; y lo adictivo?
 - ¿Hasta qué punto depende de la "fuerza de voluntad" del usuario?
 - responsabilidad ética: empresas y diseñadores
 - ¿Se puede diseñar interfaces que enganchen sin causar dependencia?
 
-## referentes e info extraída:
+## referentes e info extraída
+
 Vsauce y NYT rats brain <https://www.youtube.com/watch?v=e5jDspIC4hY>
 <https://www.nytimes.com/2008/02/17/magazine/17play.html?pagewanted=all>
 el deporte(game) es una forma que tienen los humanos de "preparar la mente". Un estudio demostró que ratas que se criaron con ratas adultas(que no jugaban con las ratas wawa), desarrollaban menos su cerebro vs ratas que se criaban con pares con quien jugar.
@@ -30,10 +33,12 @@ En la vida no sabemos si estamos tomando la desición correcta, pero en el pong,
 
 dopamine fix{
 <https://www.youtube.com/watch?v=-2jZ-iOR8p4&list=WL&index=4>
+
 - el cerebro solo puede release cierta cantidad limitada de dopamina al día, por lo que picos muy altos de dopamina puede generar el sentirse mal en momentos posteriores del día.
 
 11 principles
-1. a depleted brain  will always default to ease
+
+1. a deleted brain  will always default to ease
 2. reappraise the disconfort
 3. win the evening
 4. structure your day right
@@ -45,6 +50,7 @@ dopamine fix{
 10. the effort is the reward
 11. self-negotiation prevents self-termination
 }
+
 pirámide de maslov
 <https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs>
 
@@ -62,12 +68,11 @@ la función biológica de la dopamina, es reforzar comportamientos beneficiosos 
 - These findings highlight that the brain’s reward circuits are deeply involved in anticipation and social validation—not just tangible rewards.
 }
 
-- stimming 
+- stimming
 <https://en.wikipedia.org/wiki/Stimming>
 
 short form content
 <https://en.wikipedia.org/wiki/Short-form_content>
-
 
 aza raskin - infinite scroll{
 <https://en.wikipedia.org/wiki/Infinite_scrolling>
@@ -90,7 +95,7 @@ distintos estímulos provocan distintas reacciones. Cosas como la comida chatarr
 
  al usar estos estímulos fáciles(tiktok, papafritas,etc) se generan picos altos de dopamina, al dejar estos estímulos, se generan picos bajos "fast dopamine". sin embargo para retornar a niveles normales, los niveles van subiendo lentamente "slow dopamine" 
 
-al ver tiktok, tus niveles de dopamina suben mucho. al dejar de ver tiktok, bajan mucho. esto provoca que te sientas, y desees volver al estado en el que estabas antes de dejar de ver tiktok. 
+al ver tiktok, tus niveles de dopamina suben mucho. al dejar de ver tiktok, bajan mucho. esto provoca que te sientas, y desees volver al estado en el que estabas antes de dejar de ver tiktok.
 
 así se generan adicciones. si te consideras adicto a tiktok, noeres adicto a tiktok, eres adicto a evitar y escapar del estado en el que te encuentras cuando no está viendo tiktok.
 
@@ -99,28 +104,27 @@ así se generan adicciones. si te consideras adicto a tiktok, noeres adicto a ti
 **easy choices hard life**
 **hard choices easy life**
 
-
 ¿cómo sentirse motivado para hacer cosas difíciles? has que esa actividad sea más disfrutable que todo lo demás.
 }
 
 - framing effect and types{
     <https://www.youtube.com/watch?v=x1uCimKtPyY>
-} 
+}
 
 variable ratio schedule{
-  esto me lo enseñó un señor que mi mamá contrató para que me enseñara a adiestrar al freddy.
+esto me lo enseñó un señor que mi mamá contrató para que me enseñara a adiestrar al freddy.
 
-  B.F. Skinner fue un sicólogo e inventor gringo. Uno de sus experimentos más fasmosos es la skinner box, donde sometía palomas a distintos tipos de recompensas:
-  - intervalos fijos
-  - intervalos variables
-  - ratios fijos
-  - ratios variables
+B.F. Skinner fue un sicólogo e inventor gringo. Uno de sus experimentos más fasmosos es la skinner box, donde sometía palomas a distintos tipos de recompensas:
 
-  tanto para los sujetos de estudio como para los humanos, un ratio variables es mucho más adictivo que un rastio fijo. Este es el fenómeno que hace adictivos las slot machines, loot boxes, tiktok, etc.
+- intervalos fijos
+- intervalos variables
+- ratios fijos
+- ratios variables
+
+tanto para los sujetos de estudio como para los humanos, un ratio variables es mucho más adictivo que un rastio fijo. Este es el fenómeno que hace adictivos las slot machines, loot boxes, tiktok, etc.
 }
 forbes: tiktok is like crack{
 <https://www.forbes.com/sites/johnkoetsier/2020/01/18/digital-crack-cocaine-the-science-behind-tiktoks-success/>
-
 }
 
 why our screen makes us less happy{
@@ -140,18 +144,18 @@ what makes us keep swiping?{
 
 - excitment and unpredictability, intermitent reinforcement
 - " Perhaps the apps give you a brief rush, but in the long run don’t align with how you want to be spending your time, or don’t make you feel particularly good about yourself."
-} 
-
+}
 
 psychology of smartphone addiction{
   <https://online.utpb.edu/about-us/articles/psychology/the-psychology-of-smartphone-addiction>
 
   fuentes(links):
- - <https://online.utpb.edu/programs/bachelor-of-arts/psychology>
- - <https://www.psychologytoday.com/us/blog/psychiatrys-think-tank/202302/youre-addicted-to-your-phone>
- - <https://www.psychologytoday.com/us/blog/your-neurochemical-self/201709/why-is-my-phone-so-addictive>
- - <https://www.theguardian.com/global/2021/aug/22/how-digital-media-turned-us-all-into-dopamine-addicts-and-what-we-can-do-to-break-the-cycle>
- - <https://www.healthline.com/health/mental-health/cell-phone-addiction#when-to-get-help>
+
+- <https://online.utpb.edu/programs/bachelor-of-arts/psychology>
+- <https://www.psychologytoday.com/us/blog/psychiatrys-think-tank/202302/youre-addicted-to-your-phone>
+- <https://www.psychologytoday.com/us/blog/your-neurochemical-self/201709/why-is-my-phone-so-addictive>
+- <https://www.theguardian.com/global/2021/aug/22/how-digital-media-turned-us-all-into-dopamine-addicts-and-what-we-can-do-to-break-the-cycle>
+- <https://www.healthline.com/health/mental-health/cell-phone-addiction#when-to-get-help>
 }
 
 why scroll instead of showing everything at once{
