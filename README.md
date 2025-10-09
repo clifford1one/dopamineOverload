@@ -142,8 +142,8 @@ why our screen makes us less happy{
 what makes us keep swiping?{
 <https://www.uts.edu.au/news/2024/02/what-makes-us-keep-swiping>
 
-- excitment and unpredictability, intermitent reinforcement
-- " Perhaps the apps give you a brief rush, but in the long run don’t align with how you want to be spending your time, or don’t make you feel particularly good about yourself."
+ - excitment and unpredictability, intermitent reinforcement
+ - " Perhaps the apps give you a brief rush, but in the long run don’t align with how you want to be spending your time, or don’t make you feel particularly good about yourself."
 }
 
 psychology of smartphone addiction{
@@ -151,11 +151,10 @@ psychology of smartphone addiction{
 
   fuentes(links):
 
-- <https://online.utpb.edu/programs/bachelor-of-arts/psychology>
-- <https://www.psychologytoday.com/us/blog/psychiatrys-think-tank/202302/youre-addicted-to-your-phone>
-- <https://www.psychologytoday.com/us/blog/your-neurochemical-self/201709/why-is-my-phone-so-addictive>
-- <https://www.theguardian.com/global/2021/aug/22/how-digital-media-turned-us-all-into-dopamine-addicts-and-what-we-can-do-to-break-the-cycle>
-- <https://www.healthline.com/health/mental-health/cell-phone-addiction#when-to-get-help>
+ - <https://online.utpb.edu/programs/bachelor-of-arts/psychology>
+ - <https://www.psychologytoday.com/us/blog/your-neurochemical-self/201709/why-is-my-phone-so-addictive>
+ - <https://www.theguardian.com/global/2021/aug/22/how-digital-media-turned-us-all-into-dopamine-addicts-and-what-we-can-do-to-break-the-cycle>
+ - <https://www.healthline.com/health/mental-health/cell-phone-addiction#when-to-get-help>
 }
 
 why scroll instead of showing everything at once{
@@ -164,4 +163,11 @@ why scroll instead of showing everything at once{
 
 dark patterns{
   <https://en.wikipedia.org/wiki/Dark_pattern>
+}
+
+- psychology today{
+  <https://www.psychologytoday.com/us/blog/psychiatrys-think-tank/202302/youre-addicted-to-your-phone>
+
+  Your phone is designed to be addictive. Multibillion-dollar corporations have used all its features to play your brain like the instrument it is and give you little shots of dopamine all day long like a rat in an experiment being dosed with sugar, food pellets, or cocaine. The more attention you give it, the more money they make, so they made it work like drugs work, and if you are at all susceptible you are down the rabbit hole just as surely as you would be if you were addicted to cocaine, with tolerance, withdrawal, and ongoing use despite it causing problems with work or relationships, an inability to cut down, and so much time devoted to its use that the rest of your life begins to be organized around it.
+
 }
