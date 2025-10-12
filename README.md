@@ -171,3 +171,7 @@ dark patterns{
   Your phone is designed to be addictive. Multibillion-dollar corporations have used all its features to play your brain like the instrument it is and give you little shots of dopamine all day long like a rat in an experiment being dosed with sugar, food pellets, or cocaine. The more attention you give it, the more money they make, so they made it work like drugs work, and if you are at all susceptible you are down the rabbit hole just as surely as you would be if you were addicted to cocaine, with tolerance, withdrawal, and ongoing use despite it causing problems with work or relationships, an inability to cut down, and so much time devoted to its use that the rest of your life begins to be organized around it.
 
 }
+
+- battle for your time{
+  <https://youtu.be/4TMPXK9tw5U?si=giklPNOUUA29GcMF>
+}
